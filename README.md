@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C++, Python, C#, Adobe Illustrator, Adobe Photoshop**
 
-- 📫 How to reach me **zaeemshah58@gmail.com**
+- 📫 How to reach me **zaeembukhari58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
