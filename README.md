@@ -1,63 +1,13 @@
-# Hi, I'm Syed Muhammad Zaeem 👋
+<h1 align="center">Hi 👋, I'm Syed Muhammad Zaeem</h1>
+<h3 align="center">A Passionate Graphics Designer, and Developer.</h3>
 
-### Graphics Designer | UI/UX Designer | WordPress Developer | AI/ML Enthusiast
+- 💬 Ask me about **C++, Python, C#, Adobe Illustrator, Adobe Photoshop**
 
-I'm a Computer Science undergraduate at **University of Engineering and Technology (UET), Lahore, Pakistan**, passionate about combining creativity with technology to build meaningful digital experiences.
+- 📫 How to reach me **zaeembukhari58@gmail.com**
 
-With 4+ years of experience in Graphic Design and UI/UX, along with hands-on experience in WordPress development and Artificial Intelligence, I enjoy working across design, web development, and intelligent software solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 🚀 What I Do
-- 🎨 **Graphic Design:** Brand Identity, Logo Design, Marketing Materials, Adobe Photoshop & Illustrator.
-- 🎯 **UI/UX Design:** User Interface Design, Wireframing, Prototyping, Responsive Web Design using Figma.
-- 🌐 **Web Development:** WordPress, Elementor Pro, WooCommerce, HTML, CSS, JavaScript, Python and Flask.
-- 🤖 **AI & Machine Learning:** Computer Vision, Deep Learning, Predictive Modeling, Medical Image Processing.
-
-### 🛠️ Tech Stack & Tools
-
-**Programming & Development**
-- Python | C++ | SQL | HTML | CSS | JavaScript
-- Flask | WordPress | Elementor Pro | WooCommerce
-
-**AI / Machine Learning**
-- TensorFlow | Keras | PyTorch | Scikit-learn
-- OpenCV | YOLOv8 | Pandas | NumPy
-
-**Design & Creative Tools**
-- Figma | Adobe Photoshop | Adobe Illustrator
-
-**Development Tools**
-- Git | GitHub | VS Code | Google Colab | Huawei Cloud
-
-### 💡 Featured Projects
-
-- 🧠 **Brain Tumor Detection System** – AI-based medical image analysis using Computer Vision.
-- 🛡️ **AI Weapon Detection System** – Real-time object detection using Deep Learning.
-- ❤️ **Heart Disease Prediction System** – Machine Learning-based healthcare prediction application.
-- 🛒 **ShinobiShine** – E-commerce website developed using WordPress and WooCommerce.
-- 📡 **UHF RFID Asset Tracking** – RFID-based asset tracking solution.
-
-### 🎓 Education
-**BS Computer Science**  
-University of Engineering and Technology (UET), Lahore  
-2023 – 2027
-
-### 📜 Certifications & Learning
-- Supervised Machine Learning – DeepLearning.AI
-- ChatGPT + Zapier Specialization – Vanderbilt University
-- Huawei Cloud AI & Machine Learning
-- Figma UI/UX Essentials
-- WordPress Web Development
-- Graphics Designing
-
-### 🤝 Let's Connect
-
-I'm always interested in collaborating on creative projects, web development, UI/UX design, and AI-based solutions.
-
-- 💼 LinkedIn: [Your LinkedIn URL](https://linkedin.com/)
-- 🌐 Portfolio: [Your Portfolio URL](https://github.com/)
-- 📧 Email: Your Email Address
-- 🐙 GitHub: [@Zaeem-Shah3321](https://github.com/Zaeem-Shah3321)
-
----
-
-⭐ *Turning creative ideas into functional digital experiences.*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
